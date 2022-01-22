@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pharm:eligibility>
+    <pharm:eligibility account-id="ASO" carrier-id="PA1000" group-id="00531771D459">
+        <pharm:patient date-of-birth="1999-07-04" first-name="Veronica" gender-code="F" last-name="John" member-id="80243103203"/>
+    </pharm:eligibility>
+    <pharm:medical-claim claim-number="212391858902" claim-status="Paid" date-of-service="2021-08-24" him-indicator="N" reason-code="ADJUSTMENT">
+        <pharm:accumulators>
+            <pharm:accumulator accum-code="BOTH" accumulator-type="O" alternate-amount-indicator="N" amount-applied="50"/></pharm:accumulators>
+    </pharm:medical-claim>
+</pharm:eligibility>
